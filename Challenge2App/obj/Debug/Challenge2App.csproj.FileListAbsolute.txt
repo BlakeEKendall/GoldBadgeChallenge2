@@ -1,0 +1,7 @@
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\bin\Debug\Challenge2App.exe.config
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\bin\Debug\Challenge2App.exe
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\bin\Debug\Challenge2App.pdb
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\obj\Debug\Challenge2App.csprojAssemblyReference.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\obj\Debug\Challenge2App.csproj.CoreCompileInputs.cache
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\obj\Debug\Challenge2App.exe
+C:\Users\Blake Kendall\source\repos\GoldChallenge2\Challenge2App\obj\Debug\Challenge2App.pdb
